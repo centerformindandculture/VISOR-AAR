@@ -1,2 +1,2 @@
-# JAAR
-Supplemental material for VISOR paper in JAAR
+# AAR
+Supplemental material for VISOR paper re AAR
